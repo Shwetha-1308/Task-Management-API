@@ -68,7 +68,7 @@ Technologies Used:
 
 -------------------------------------------------
 
-Setup Instructions — Task Manager API
+Setup Instructions 
 
 Prerequisites
 
@@ -313,8 +313,5 @@ Optional Features
 Task priority sorting.
 
 Pagination for task lists.
-
-
-Search tasks by keyword.
 
 Integration with external reminder APIs.
