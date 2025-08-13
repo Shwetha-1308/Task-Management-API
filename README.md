@@ -144,8 +144,11 @@ For MySQL (production use):
 In application.properties update:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/taskmanagerdb
+
 spring.datasource.username=your_mysql_username
+
 spring.datasource.password=your_mysql_password
+
 spring.jpa.hibernate.ddl-auto=update
 
 Step 3: Build and Run the Application
